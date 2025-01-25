@@ -1,4 +1,4 @@
-###NewsApp
+**#NewsApp#**
 
 Welcome to NewsApp, a modern application designed to deliver the latest news in a user-friendly and engaging way. This project is built with a focus on performance, scalability, and ease of use.
 
