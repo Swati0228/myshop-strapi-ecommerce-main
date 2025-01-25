@@ -1,4 +1,4 @@
-##NewsApp
+**NewsApp**
 
 Welcome to NewsApp, a modern application designed to deliver the latest news in a user-friendly and engaging way. This project is built with a focus on performance, scalability, and ease of use.
 
@@ -17,14 +17,12 @@ Dark Mode: Switch between light and dark themes for better readability.
 Tech Stack
 
 Frontend:
-
-JavaFX (for desktop GUI)
+REACT.JS,CSS
 
 Backend:
 
-Java (Core)
+JAVASCRIPT AND SOME RESTFUL APIs
 
-Spring Boot (for RESTful APIs)
 
 Database:
 
@@ -33,4 +31,22 @@ MySQL or PostgreSQL (configurable)
 API Integration:
 
 NewsAPI (https://newsapi.org/) for fetching real-time news.
+
+Usage
+
+Launch the application.
+
+Select a category or use the search bar to explore news.
+
+Customize your experience using the settings (e.g., enable dark mode).
+
+
+
+Acknowledgments
+
+NewsAPI for providing the news data.
+
+Open-source libraries and tools used in this project.
+
+
 
